@@ -1,0 +1,46 @@
+﻿body {
+    background-color: lightgoldenrodyellow;
+    color: darkblue;
+}
+
+.header {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 2%;
+    width: 94%;
+    height: 10%;
+    background-color: lightcyan;
+    text-align: center;
+    padding: 1em;
+}
+
+.main {
+    position: absolute;
+    left: 2%;
+    right: 28%;
+    top: 24%;
+    width: 94%;
+    height: 52%;
+    background-color: white;
+    padding: 20px;
+}
+
+.footer {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    bottom: 2%;
+    width: 94%;
+    height: 8%;
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 1em;
+}
+ul {
+    list-style:none;
+}
+
+h1, h2 {
+    text-align: center;
+}
